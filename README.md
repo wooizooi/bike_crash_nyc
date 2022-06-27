@@ -7,6 +7,9 @@ Bike Stations: https://feeds.citibikenyc.com/stations/stations.json
 
 Vehicle crashes: https://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-CollisionsCrashes/h9gi-nx95
 
+To load the data into the jupyter notebook run the code in Step 2 (# import from url). Alternatively: Download the data to your local device and load the data from there using the code in Step 2 (# import from device).
+After loading the datasets run the code step by step.
+
 Questions:
 
 What is the most dangerous NYC borough / area for a bicycle rider? Use visualization.
