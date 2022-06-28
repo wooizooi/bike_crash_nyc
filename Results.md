@@ -17,3 +17,4 @@ What other data sources would be interesting to correlate?
 
 Weather data: humidity, temperature, air pressure, visibility (e.g., reduced due to fog), wind direction & speed, sunrise or sunset
 Tourist data: holidays, number of daily visitors/tourist
+Bike Station Data: Number of available bikes of nearest station, number of bikes in use of nearest station
