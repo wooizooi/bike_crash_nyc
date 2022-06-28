@@ -1,5 +1,5 @@
 Bicycles Accidents in NYC
-Use LR/KNN/Decision Tree/Random Forest classification algorithms from sklearn to predict the accident location. I will only select a few features I believe are more relevant to accident location. Categorical data will be treated with Pandas get_dummies method. Rows with missing values will be dropped.
+Use LM/KNN/Decision Tree/Random Forest regression algorithms from sklearn to predict the accident location. I will only select a few features I believe are more relevant to accident location. Categorical data will be treated with Pandas get_dummies method. Rows with missing values will be dropped.
 
 Scenario and Data: NYC is known for its traffic jams. So, going around on a bike is a big time saver. But there’s some risk of having an accident. We have two datasets to do some research on them:
 
