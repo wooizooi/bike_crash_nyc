@@ -9,11 +9,3 @@ Vehicle crashes: https://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-
 
 To load the data into the jupyter notebook run the code in Step 2 (# import from url). Alternatively: Download the data to your local device and load the data from there using the code in Step 2 (# import from device).
 After loading the datasets run the code step by step.
-
-Questions:
-
-What is the most dangerous NYC borough / area for a bicycle rider? Use visualization.
-
-What would you change in the locations of bike stations to increase safety? Use visualization.
-
-Where can an accident occur and how close is this from the nearest bike station? Create a predictive model.
