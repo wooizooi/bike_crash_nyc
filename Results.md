@@ -1,6 +1,6 @@
 What is the most dangerous NYC borough / area for a bicycle rider? Use visualization.
 
-The most dangerous NYC boroughs for a bicacle rider is Brooklyn. See Step 5 for the corresponding visualization
+The most dangerous NYC boroughs for a bicycle rider is Brooklyn. See Step 5 for the corresponding visualization
 
 
 What would you change in the locations of bike stations to increase safety? Use visualization.
@@ -16,5 +16,7 @@ For the creation of predictive models see Step 8-12. In Step 12 a plot of the Pr
 What other data sources would be interesting to correlate?
 
 Weather data: humidity, temperature, air pressure, visibility (e.g., reduced due to fog), wind direction & speed, sunrise or sunset
+
 Tourist data: holidays, number of daily visitors/tourist
+
 Bike Station Data: Number of available bikes of nearest station, number of bikes in use of nearest station
