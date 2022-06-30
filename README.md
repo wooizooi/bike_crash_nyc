@@ -1,4 +1,4 @@
-Bicycle Accidents in NYC
+**Bicycle Accidents in NYC**
 
 Use LM/KNN/Decision Tree/Random Forest regression algorithms from sklearn to predict the accident location. I will only select a few features I believe are more relevant to accident location. Categorical data will be treated with Pandas get_dummies method. Rows with missing values will be dropped.
 
